@@ -1,17 +1,17 @@
-![nano banner](https://raw.githubusercontent.com/CamilleAbella/Nano/master/assets/images/banner.jpg)
+![nano banner](https://raw.githubusercontent.com/NanoWorkspace/core/master/assets/images/banner.jpg)
 
-![GitHub forks](https://img.shields.io/github/forks/CamilleAbella/Nano-AutoRole?color=black&logo=github&style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/CamilleAbella/Nano-AutoRole?color=black&logo=github&style=for-the-badge) ![GitHub watchers](https://img.shields.io/github/watchers/CamilleAbella/Nano-AutoRole?color=black&logo=github&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/NanoWorkspace/module_auto-role?color=black&logo=github&style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/NanoWorkspace/module_auto-role?color=black&logo=github&style=for-the-badge) ![GitHub watchers](https://img.shields.io/github/watchers/NanoWorkspace/module_auto-role?color=black&logo=github&style=for-the-badge)
 
-# Nano (なの) Module Template ![](https://raw.githubusercontent.com/CamilleAbella/Nano/master/assets/images/logo.png)
+# Nano (なの) Module Template ![](https://raw.githubusercontent.com/NanoWorkspace/core/master/assets/images/logo.png)
 
-![GitHub top language](https://img.shields.io/github/languages/top/CamilleAbella/Nano-AutoRole?color=%23BDB76B&style=plastic)
-[![GitHub search todo](https://img.shields.io/github/search/CamilleAbella/Nano-AutoRole/todo?color=%23BDB76B&label=todo%20count&style=plastic)](https://github.com/CamilleAbella/Nano-ReactionRole/search?l=TypeScript&q=todo)
-![GitHub repo size](https://img.shields.io/github/repo-size/CamilleAbella/Nano-AutoRole?color=%23BDB76B&label=size&style=plastic)
-![GitHub issues](https://img.shields.io/github/issues/CamilleAbella/Nano-AutoRole?color=%23BDB76B&style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/NanoWorkspace/module_auto-role?color=%23BDB76B&style=plastic)
+[![GitHub search todo](https://img.shields.io/github/search/NanoWorkspace/module_auto-role/todo?color=%23BDB76B&label=todo%20count&style=plastic)](https://github.com/NanoWorkspace/module_reaction-role/search?l=TypeScript&q=todo)
+![GitHub repo size](https://img.shields.io/github/repo-size/NanoWorkspace/module_auto-role?color=%23BDB76B&label=size&style=plastic)
+![GitHub issues](https://img.shields.io/github/issues/NanoWorkspace/module_auto-role?color=%23BDB76B&style=plastic)
 
 ## Usage
 
-Read the [API documentation](https://github.com/CamilleAbella/NanoDocs) to learn how to use Nano.
+Read the [API documentation](https://nanoworkspace.github.io/docs) to learn how to use Nano.
 
 ```ts
 import "@ghom/nano-autorole"
