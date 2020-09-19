@@ -1,9 +1,9 @@
 {
-  "name": "@ghom/nano-module-template",
+  "name": "@ghom/nano-autorole",
   "author": "ghom",
   "license": "ISC",
   "version": "1.0.0",
-  "description": "Nano module template",
+  "description": "Auto-role module for Nano",
   "main": "dist/index.js",
   "prettier": {
     "trailingComma": "es5",

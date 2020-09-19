@@ -4,7 +4,7 @@ import ReactionRole from "./app/ReactionRole"
 require("./parts/commands")
 require("./parts/events")
 
-const NanoReactionRole: {
+const NanoAutoRole: {
   ReactionRoleMessage: typeof ReactionRoleMessage
   ReactionRole: typeof ReactionRole
 } = {
