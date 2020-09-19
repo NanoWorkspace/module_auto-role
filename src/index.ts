@@ -1,15 +1,6 @@
-import ReactionRoleMessage from "./app/ReactionRoleMessage"
-import ReactionRole from "./app/ReactionRole"
+import db from "./utils/db"
 
 require("./parts/commands")
 require("./parts/events")
 
-const NanoAutoRole: {
-  ReactionRoleMessage: typeof ReactionRoleMessage
-  ReactionRole: typeof ReactionRole
-} = {
-  ReactionRoleMessage,
-  ReactionRole,
-}
-
-export default NanoReactionRole
+export default { db }
