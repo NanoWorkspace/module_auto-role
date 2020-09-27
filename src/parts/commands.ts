@@ -2,6 +2,7 @@ import Nano from "@ghom/nano-bot"
 import db from "../utils/db"
 
 new Nano.Command({
+  id: "autoRole",
   name: "Auto-role Manager",
   category: "admin",
   pattern: /ar|autorole/i,
